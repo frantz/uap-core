@@ -4652,3 +4652,10 @@ device_parsers:
     device_replacement: 'Generic Feature Phone'
     brand_replacement: 'Generic'
     model_replacement: 'Feature Phone'
+
+  ##########
+  # Google Image Proxy (used by gmail)
+  ##########
+  - regex: 'via ggpht.com GoogleImageProxy'
+    device_replacement: 'GoogleImageProxy'
+

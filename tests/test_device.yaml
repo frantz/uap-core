@@ -79665,3 +79665,7 @@ test_cases:
     brand: 'Prestigio'
     model: 'PMP7280C3G'
 
+  - user_agent_string: 'Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)'
+    family: 'GoogleImageProxy'
+    brand:
+    model:
