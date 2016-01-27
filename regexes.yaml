@@ -286,6 +286,11 @@ user_agent_parsers:
     family_replacement: 'Outlook'
     v1_replacement: '2013'
 
+  # Outlook 2016
+  - regex: 'Microsoft Office/16\.\d+'
+    family_replacement: 'Outlook'
+    v1_replacement: '2016'
+
   # Apple Air Mail
   - regex: '(Airmail) (\d+)\.(\d+)(?:\.(\d+))?'
 
